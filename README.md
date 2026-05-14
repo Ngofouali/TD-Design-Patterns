@@ -3,21 +3,6 @@
 
 ---
 
-## Table des matières
-
-- [Exercice 1 — Identification de patterns](#exercice-1--identification-de-patterns)
-  - [1.1 Figure (Composite)](#11-figure--composite)
-  - [1.2 Plugin (Template Method + Factory Method)](#12-plugin--template-method--factory-method)
-  - [1.3 Composant enveloppé (Decorator)](#13-composant-enveloppé--decorator)
-  - [1.4 Joueur et environnement (Observer)](#14-joueur-et-environnement--observer)
-- [Exercice 2 — Framework de traitement d'image](#exercice-2--framework-de-traitement-dimage)
-  - [Patterns identifiés](#patterns-identifiés)
-  - [Diagramme de classes](#diagramme-de-classes)
-  - [Implémentation Java](#implémentation-java)
-  - [Application cliente](#application-cliente)
-
----
-
 ## Exercice 1 — Identification de patterns
 
 ### 1.1 Une figure peut être soit un cercle, un rectangle ou un groupe de figures.
